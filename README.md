@@ -1,5 +1,6 @@
 # word-counter
 Some tech task 
+
 Program input params: 
 1. path to the file
 2. integer number N which indicates the amount of words to output
